@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this kit in a course, article or research, please cite it as below."
+title: "Before You Build: an evidence-first kit of AI skills for validating product ideas"
+abstract: "An open-source method and seven AI agent skills that help founders and small teams without a product manager test product ideas against real-world evidence: mapping assumptions, designing the cheapest test with a pre-registered bar, grading evidence on a six-level ladder, and reaching CONTINUE, CHANGE or STOP decisions."
+type: software
+authors:
+  - family-names: "Lapa"
+    given-names: "Ivan"
+version: 0.1.0
+date-released: 2026-11-06
+license: MIT
+repository-code: "https://github.com/ivnlap/before-you-build"
+keywords:
+  - product discovery
+  - idea validation
+  - lean startup
+  - customer development
+  - AI agents
+  - agent skills
