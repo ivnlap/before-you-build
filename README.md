@@ -58,7 +58,7 @@ Then: `/byb-start` — or simply describe your idea.
 
 > **You:** I want to build an app that helps private tutors schedule lessons and chase unpaid ones. $8/month.
 >
-> **byb-start:** Here's the riskiest assumption: *tutors with 10+ students lose real money or hours to this every month.* Right now your evidence is your own experience — that's one person, L1. You'd be building on ~4 untested fatal assumptions. Next step: map them with `byb-assumptions`, then test the problem with 10 tutors you don't know.
+> **byb-start:** Here's the riskiest assumption: *tutors with 10+ students lose real money or hours to this every month.* Right now your evidence is your own experience — that's one person, L1. I can already see at least 3 fatal bets with no evidence (problem, switching, price). Next step: map them with `byb-assumptions`, then test the problem with 10 tutors you don't know.
 >
 > *…five days and ten interviews later…*
 >

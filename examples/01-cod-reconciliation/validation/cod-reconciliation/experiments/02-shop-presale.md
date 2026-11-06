@@ -31,3 +31,4 @@ Steps:
 - Raw numbers: offer sent to 28 → 15 confirmed reading it → 1 paid the deposit. 4 said "maybe later", 2 said the spreadsheet is "fine".
 - Notes: two shops asked whether their courier agency could pay for it instead.
 - Bar was changed after start? no
+- Bar change requested after start? no

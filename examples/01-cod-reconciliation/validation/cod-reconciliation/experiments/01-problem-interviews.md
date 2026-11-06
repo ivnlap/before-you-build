@@ -32,3 +32,4 @@ Steps:
 - Raw numbers: 30 DMs → 11 replies → 8 calls held, all in segment. 6 of 8 showed a weekly spreadsheet (avg. reported 2–3 h/week). 1 of 8 named a specific loss (≈ $40 in September).
 - Notes: 3 shops introduced us to their courier agencies; all 3 agency owners described monthly disputes with shops over cash, one estimating 1–2 days a month of a manager's time.
 - Bar was changed after start? no
+- Bar change requested after start? no

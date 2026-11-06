@@ -29,7 +29,7 @@ Tell them, in your own words:
 1. What they'll get: a clear verdict per assumption — CONTINUE, CHANGE or STOP — based on what real people did, not what they said.
 2. The loop: write down assumptions → pick the riskiest → design the cheapest test with a pass/fail bar set in advance → run it in the real world → log what happened → decide.
 3. Who does what: the AI structures, challenges and drafts; **they** go talk to people, sell, and run the tests. The AI cannot validate anything for them.
-4. Time: setup ~15 minutes; a first real result usually within a week.
+4. Time: setup ~15 minutes; a first real result is possible within a week if they can reach the people this week.
 
 ## Step 3 — Five questions (ask together, accept short answers)
 
@@ -38,6 +38,8 @@ Tell them, in your own words:
 3. What do those people do today instead? (Tool, spreadsheet, person, or nothing.)
 4. Why you — what do you know, have or can reach that others can't?
 5. How many hours a week can you give this, until what date, and what result would make it worth it?
+
+If the first message already shows a red flag (vague segment, "everyone", no current alternative named), name it now in one line as a risk — e.g. *Risk I already see: "small businesses" is too broad to reach or test* — and put the narrowing push into question 2.
 
 If an answer is vague ("small businesses", "everyone"), ask one follow-up to narrow it. Don't ask more than one round of follow-ups — capture the rest as `guess`.
 
@@ -65,7 +67,7 @@ Mark each line `fact` / `inference` / `guess`. Create empty `evidence.md` and `d
 
 - **The assumption most likely to kill this**, in one sentence, and why.
 - **Risks I see in what you told me:** 2–4 bullets (vague segment, no current alternative named, "everyone needs this", founder not in the segment, etc.).
-- **Validation debt:** "Right now this idea rests on about N untested assumptions."
+- **Validation debt (rough):** list the fatal assumptions you can already see ("at least these K: …"), labelled `guess`. The real count comes from `byb-assumptions`.
 - **Should this be built at all?** One line: is there a way to get the same result without building software (sell a service, do it by hand, use an existing tool)?
 
 ## Step 6 — One next step

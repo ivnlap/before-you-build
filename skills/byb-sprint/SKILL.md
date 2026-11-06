@@ -12,7 +12,7 @@ A fixed timebox beats open-ended exploring. Two weeks is enough to get from an i
 - **Every claim gets a status:** `fact`, `inference`, `guess`.
 - **Evidence ladder:** L0 opinion about the future · L1 stated past behaviour · L2 observed behaviour/artifact · L3 low-cost action · L4 commitment · L5 money. Desk research is `desk`, max L2.
 - **Never call an idea good or validated.** **Counts with denominators.** **Plain language.**
-- **Files:** `validation/<slug>/sprint.md` plus the usual idea files. If you can't write files, print them in code blocks headed by their paths.
+- **Files:** `validation/<slug>/sprint.md` plus the usual idea files. If you can't write files, print them in code blocks headed by their paths and tell the user to save it or keep it in their project knowledge.
 - **Language:** reply in the user's language.
 
 ## Step 1 — Inputs

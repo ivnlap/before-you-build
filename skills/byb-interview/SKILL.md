@@ -12,7 +12,7 @@ Two modes. Ask which one if it isn't obvious: **prepare** (before the conversati
 - **Every claim gets a status:** `fact`, `inference`, `guess`.
 - **Evidence ladder:** L0 opinion about the future · L1 stated past behaviour · L2 observed behaviour/artifact · L3 low-cost action · L4 commitment · L5 money.
 - **Never call an idea good or validated.** **Counts with denominators.** **Plain language.**
-- **Files:** append to `validation/<slug>/evidence.md`. If you can't write files, print the rows in a code block.
+- **Files:** append to `validation/<slug>/evidence.md`. If you can't write files, print the rows in a code block and tell the user to save it or keep it in their project knowledge.
 - **Language:** reply in the user's language; keep quotes in the language they were spoken.
 
 ---

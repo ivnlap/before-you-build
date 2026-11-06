@@ -12,16 +12,18 @@ A good test is small, fast, and able to change what you do next. Your job: pick 
 - **Every claim gets a status:** `fact`, `inference`, `guess`.
 - **Evidence ladder:** L0 opinion about the future · L1 stated past behaviour · L2 observed behaviour/artifact · L3 low-cost action · L4 commitment · L5 money. Desk research is `desk`, max L2.
 - **Never call an idea good or validated.** **Counts with denominators.** **Plain language.**
-- **Files:** `validation/<slug>/experiments/NN-<slug>.md`. If you can't write files, print it in a code block headed by its path.
-- **Language:** reply in the user's language.
+- **Files:** `validation/<slug>/experiments/NN-<slug>.md`. If you can't write files, print it in a code block headed by its path and tell the user to save it or keep it in their project knowledge.
+- **Language:** reply in the user's language; write customer-facing assets (messages, landing copy, offers) in the segment's language and currency — ask if unsure.
 
 ## Step 1 — Pick the assumption
 
 Read `assumptions.md` and take the top-priority untested assumption unless the user names another. If there's no assumptions file, ask the user for the one belief that, if wrong, kills the idea — and suggest running `byb-assumptions` afterwards.
 
+If the named assumption bundles several bets (segment + problem + price), say which part the test actually checks and whether an untested part (does the problem even exist for them?) could explain a failure. Add one question to the test (e.g. to the offer conversation) that separates them.
+
 ## Step 2 — Decide the level needed
 
-Ask: what would we do differently depending on the result, and how much is at stake?
+Decide: what would we do differently depending on the result, and how much is at stake? If the user's message already answers it, don't ask — state your reading and the required level.
 - Next step is a weekend of work → L2–L3 can be enough.
 - Next step is months of building, money, or quitting a job → aim for L4–L5.
 Say the required level out loud.
@@ -29,6 +31,8 @@ Say the required level out loud.
 ## Step 3 — Choose the test
 
 Read `references/test-catalog.md`. Filter to tests that (a) can test this assumption and (b) can reach the required level. Pick the cheapest and fastest. Then try to shrink it: fewer days, fewer people, no code. Mention one runner-up in a single line.
+
+Fit the test to the user's stated hours and dates and show the hour split. If a strong default below doesn't fit (e.g. outreach *then* pilot), take the single stage that reaches the required level, or say plainly that it won't fit.
 
 Strong defaults:
 - Problem/customer unknown → problem interviews (5–10) + desk scan.
@@ -51,6 +55,7 @@ How to set the lines:
 2. Otherwise, ask the user: "What result would genuinely disappoint you?" That's near the kill line. "What would make you clear your weekend for this?" That's near the success line.
 3. At small samples use counts ("≥ 3 of 10 pay a deposit"), not percentages with false precision.
 4. Never invent industry benchmarks. If you cite one, name the source; otherwise label it `guess`.
+5. **The user owns the bar.** Propose a draft with every number labelled `guess` and how you got it, and get their explicit OK before the start date. Example thresholds in the catalog are illustrations, not norms — never present them as typical rates.
 
 ## Step 5 — Draft the assets
 
@@ -93,6 +98,8 @@ Steps: …
 
 ## Result
 _Filled in by byb-log._
+- Bar was changed after start? no
+- Bar change requested after start? no
 ```
 
 Update `assumptions.md`: status → `testing (exp NN)`.

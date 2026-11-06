@@ -31,3 +31,4 @@ _Filled in by `byb-log` after the test._
 - Raw numbers:
 - Notes:
 - Bar was changed after start? no
+- Bar change requested after start? no

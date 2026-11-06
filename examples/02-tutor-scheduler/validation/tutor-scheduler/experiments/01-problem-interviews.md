@@ -31,3 +31,4 @@ Steps:
 - Raw numbers: 26 messages → 12 replies → 10 calls held, all in segment. 2 of 10 described a specific loss in the last month (one unpaid lesson, ≈ $15; one ~3 h of rescheduling). 7 of 10 said calendar + messenger "works fine". 1 of 10 pays for a scheduling tool.
 - Notes: 4 of 10 raised finding new students as their real headache, unprompted.
 - Bar was changed after start? no
+- Bar change requested after start? no

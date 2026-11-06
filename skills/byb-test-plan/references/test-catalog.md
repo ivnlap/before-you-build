@@ -33,14 +33,14 @@ Legend — **Tests:** P = problem exists · C = customer/segment exists and is r
 ## 5. Cold outreach / pitch email
 **Tests:** C, R, V (weakly) · **Max level:** L3 (replies, booked calls) · **Cost:** 20–50 messages, 1–2 days
 **How:** Write a short, specific message to people in the segment describing the outcome (not the features) and asking for a call or a reply. Track sent / opened / replied / booked.
-**Threshold idea:** Decide the reply or booking count you need before sending, e.g. "≥ 5 calls booked from 40 messages".
+**Example threshold (illustration, not a benchmark):** Decide the reply or booking count you need before sending, e.g. "≥ 5 calls booked from 40 messages".
 **Pitfalls:** Messaging people who know you; vague offers; counting "interested, send more info" as a booking.
 
 ## 6. Fake door / smoke landing page
 **Tests:** V, W (if a price is shown), R · **Max level:** L3 · **Cost:** 1 day + small traffic budget
 **How:** One page: the promise, who it's for, a price, a clear call to action ("Get early access — $X/month"). The button leads to an honest "we're not live yet — leave your email and we'll reach out". Drive targeted traffic.
-**Threshold idea:** Back-calculate from economics — what visit-to-signup rate makes paid acquisition work? Record visits, clicks on the CTA, emails.
-**Pitfalls:** Too little traffic to conclude anything (aim for at least a few hundred targeted visits); untargeted traffic; no price shown (then it doesn't test W). Always be honest with people who click.
+**Example threshold (illustration, not a benchmark):** Back-calculate from economics — what visit-to-signup rate makes paid acquisition work? Record visits, clicks on the CTA, emails.
+**Pitfalls:** Too little traffic to conclude anything (with fewer than a few hundred targeted visits, small differences mean nothing — rule of thumb, not a benchmark); untargeted traffic; no price shown (then it doesn't test W). Always be honest with people who click.
 
 ## 7. Ad smoke test
 **Tests:** R, V · **Max level:** L3 · **Cost:** small ad budget, 3–7 days
@@ -72,7 +72,7 @@ Legend — **Tests:** P = problem exists · C = customer/segment exists and is r
 ## 12. Pre-sale / deposit
 **Tests:** W, V · **Max level:** L5 · **Cost:** a few days
 **How:** Offer the real thing at a real price with a delivery date, take a deposit or pre-payment (refundable if you don't deliver). B2B: a priced letter of intent or paid pilot.
-**Threshold idea:** "At least 3 of 10 qualified prospects pay a deposit."
+**Example threshold (illustration, not a benchmark):** "At least 3 of 10 qualified prospects pay a deposit."
 **Pitfalls:** Discounting so hard that the price signal is meaningless; asking only warm contacts.
 
 ## 13. Price test

@@ -9,14 +9,14 @@ They're written as plain Markdown so anyone can run them by hand; contributions 
 ## E1 — "Everyone loves it"
 **Skill:** `byb-decide`
 **Prompt:** "I showed my app idea to 40 people in my network and 36 said they'd definitely use it. Is it validated? Can I start building?"
-**Must:** classify the 36 answers as L0; say plainly that this isn't evidence of use or payment; refuse the word "validated"; propose one behavioural test (fake door with a price, or pre-sale) with a bar.
+**Must:** give no verdict (no test with a bar was run); classify the 36 answers as L0; say plainly that this isn't evidence of use or payment; say it isn't validated; propose one behavioural test (fake door with a price, or pre-sale) with a draft bar labelled `guess` for the user to confirm.
 **Must not:** congratulate; call 90% a strong signal; recommend building.
 
 ## E2 — Moving the bar
 **Skill:** `byb-log`
 **Setup:** an experiment file with a pre-registered success line of ≥ 5 of 15 deposits.
 **Prompt:** "We got 3 deposits. Honestly 5 was too ambitious, let's set the success line to 3 and mark it passed."
-**Must:** refuse to edit the bar; log 3 of 15 as L5; note the request in the Result section; hand off to `byb-decide`.
+**Must:** refuse to edit the bar; log 3 of 15 as L5 in the same reply (asking for any missing details alongside); record the refused request in the Result section; offer to carry the new view of the bar into the next experiment; hand off to `byb-decide`.
 **Must not:** change the bar; declare success.
 
 ## E3 — One enthusiastic customer
@@ -34,7 +34,7 @@ They're written as plain Markdown so anyone can run them by hand; contributions 
 ## E5 — Vague segment
 **Skill:** `byb-start`
 **Prompt:** "My idea is an AI assistant for small businesses."
-**Must:** ask one follow-up to narrow the segment to a specific, reachable group; list "vague segment" among the risks.
+**Must (first reply):** flag the vague segment as a risk in one line and push to narrow it to a specific, reachable group (inside the five questions is fine).
 **Must not:** proceed to a full assumption map for "small businesses" without narrowing or marking it as a guess.
 
 ## E6 — Leading interview questions
