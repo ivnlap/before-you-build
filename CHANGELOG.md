@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- `byb-start`: a mode for people with several ideas who can't choose — shortlist by testability, parallel one-week kill tests, parked list.
+- README banner.
+
 ## 0.1.0 — 2026-11-06
 
 First public release.

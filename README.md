@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/hero.png" alt="Before You Build — too many ideas, zero evidence. Test every idea with real people and let the evidence pick." width="100%"></p>
+
 # Before You Build
 
 **Find out if your idea deserves to be built — with real evidence, not AI enthusiasm.**
@@ -20,6 +22,10 @@ AI makes this easier to do, not harder. Ask a chat assistant about your idea and
 
 There are already excellent libraries of product-management frameworks as AI skills. This kit is deliberately different: **it doesn't generate more documents. It runs a discipline.** It helps you pick the bet most likely to kill your idea, design the cheapest test that could prove it wrong, fix the pass/fail bar before you look, record what real people actually did, and reach a verdict.
 
+## Can't choose between ideas?
+
+Most people with ten ideas don't need an eleventh framework to rank them by gut. They need a week. Give `byb-start` your list: it shortlists the 2–3 ideas you can test fastest with people you can actually reach, sets a kill test for each, and lets the verdicts pick. Ideas that die in a week were never going to survive six months of building.
+
 ## What makes it different
 
 - **It argues with you.** The skills never call an idea "good" or "validated". They name the assumption most likely to kill it and the strongest case against each verdict.
@@ -33,7 +39,7 @@ There are already excellent libraries of product-management frameworks as AI ski
 
 | Skill | Use it when | You get |
 |---|---|---|
-| [`byb-start`](skills/byb-start/SKILL.md) | You have an idea, or want to know where things stand | A folder for the idea, five questions, the riskiest assumption, one next step |
+| [`byb-start`](skills/byb-start/SKILL.md) | You have an idea — or several and can't choose — or want to know where things stand | A folder for the idea, five questions, the riskiest assumption, one next step. With several ideas: a shortlist by testability and a one-week plan of parallel kill tests |
 | [`byb-assumptions`](skills/byb-assumptions/SKILL.md) | "What should I test first?" | The full chain of assumptions, ranked; ones you can remove; a build/no-build check |
 | [`byb-test-plan`](skills/byb-test-plan/SKILL.md) | "How do I test this?" | The cheapest test from a [catalog of 14](skills/byb-test-plan/references/test-catalog.md), a pre-registered bar, and ready-to-use assets (messages, landing copy, offer) |
 | [`byb-interview`](skills/byb-interview/SKILL.md) | Before or after talking to customers | A script that avoids leading questions; analysis of notes into counted patterns and evidence |

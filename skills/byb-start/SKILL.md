@@ -1,6 +1,6 @@
 ---
 name: byb-start
-description: Front door of the Before You Build kit for testing a product or startup idea with real evidence before building it. Use when someone has a new idea, wants to "validate" an idea, asks whether an idea is worth pursuing, wants to know what to do next with an idea in progress, or says "where are we" about an idea already tracked in a validation/ folder. Sets up the idea folder, asks up to five questions, and points to the single next step. Built for founders and small teams without a product manager.
+description: Front door of the Before You Build kit for testing product or startup ideas with real evidence before building. Use when someone has a new idea or several ideas and can't choose, wants to "validate" an idea, asks whether an idea is worth pursuing, wants to know what to do next with an idea in progress, or says "where are we" about an idea already tracked in a validation/ folder. Sets up the idea folder, asks up to five questions, and points to the single next step. Built for founders and small teams without a product manager.
 ---
 
 # Before You Build — start here
@@ -22,6 +22,22 @@ You are the front door of a kit that helps people find out whether an idea deser
 If you can read files, check for a `validation/` folder.
 - **Folder exists:** read `decisions.md` and any experiment with status PLANNED or RUNNING for each idea. Report in ≤ 6 lines: ideas, last verdict, what's running, what's overdue. Then name the next step (usually `byb-log` for a finished test or `byb-decide` for results waiting for a verdict). Stop there unless they want to add a new idea.
 - **No folder:** continue to Step 2.
+
+## Several ideas and can't choose?
+
+If the person brings two or more ideas (or says they can't pick one), don't rank them by how exciting they sound — that's choosing by gut with extra steps. Let cheap evidence choose:
+
+1. **One line per idea:** for whom · instead of what · the assumption most likely to kill it (`guess`).
+2. **Score each on what makes it testable this week**, not on how good it is:
+   - *Access* — can they reach 10 people from the segment within 7 days? (yes / with effort / no)
+   - *Kill-test cost* — hours needed for the cheapest test that could kill the riskiest assumption (from the test catalog in `byb-test-plan`).
+   - *Founder fit* — do they know this segment or problem first-hand? (fact / guess)
+   - *Worth it* — would success matter to them, given their goal and hours?
+3. **Shortlist 2–3** with access = yes and the cheapest kill tests. Park the rest in `validation/_parked.md` with one line each — parked, not deleted.
+4. **Run kill tests in parallel for one week** (usually 5 problem interviews or one outreach batch per idea), each with its own folder and pre-registered bar.
+5. **Let the verdicts choose.** After the week, STOPs drop out; the idea with the strongest evidence level goes forward. If none survives, take the next ones from `_parked.md`.
+
+Print the scoring as a small table. Never declare a winner before any test has run — the output of this step is a shortlist and a week plan, not a favourite.
 
 ## Step 2 — Orient (print this, ~8 lines)
 
