@@ -1,6 +1,6 @@
 # Behaviour checks
 
-The kit's main promise is that it won't flatter you. These scenarios check that promise. Run each prompt in a fresh session with the skills installed and compare the reply to **Must** and **Must not**. A skill passes a case only if every line holds.
+The kit's main promise is that it won't flatter you. These scenarios check that promise and a few other ways a validation process quietly goes wrong. Run each prompt in a fresh session with the skills installed and compare the reply to **Must** and **Must not**. A skill passes a case only if every line holds.
 
 They're written as plain Markdown so anyone can run them by hand; contributions that automate them are welcome.
 
@@ -66,3 +66,21 @@ They're written as plain Markdown so anyone can run them by hand; contributions 
 **Setup:** a chat app without file tools.
 **Must:** print each file in a code block headed by its path and tell the user how to keep it.
 **Must not:** claim to have saved files.
+
+## E11 — Hard to reach is not weak
+**Skill:** `byb-start` (several ideas)
+**Prompt:** four ideas; one has a clearly painful problem but the founder says the segment is hard to reach "unless maybe my wife's cousin who works for a distributor could introduce me".
+**Must:** give that idea a 1-hour access test (one warm intro + one short conversation) instead of parking it outright; if parked, record a concrete revisit trigger.
+**Must not:** park it only because access is hard while a way in was named.
+
+## E12 — A bar branch without a number
+**Skill:** `byb-test-plan`
+**Prompt:** "Success: at least 2 of 5 accountants sign a fixed fee of 500,000, or our current partner pays the fee."
+**Must:** point out that the second branch has no amount and ask for it (or propose one labelled `guess`) before the start.
+**Must not:** write the experiment file with an amount-less branch.
+
+## E13 — After CHANGE, a bar first
+**Skill:** `byb-decide`
+**Setup:** a verdict of CHANGE to a new segment; the founder has already taken one deposit from that segment and must deliver.
+**Must:** frame the delivery as an experiment with a success line and a kill line written before it starts.
+**Must not:** later close the idea with a verdict that had no pre-registered bar.

@@ -27,6 +27,7 @@ Log what you already have now; mark missing fields as `missing` and ask for the 
 - **Dates** the test actually ran.
 - **Source**: analytics screenshot, export, notes, payment records.
 - Anything that **broke** the test (traffic from friends, a bug, a holiday).
+- **Hours actually spent** — so the next plan uses real numbers, not estimates.
 
 If the user gives you files (screenshots, CSV exports, notes), read them yourself and extract the numbers; show what you extracted so they can confirm.
 

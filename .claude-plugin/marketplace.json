@@ -8,7 +8,7 @@
       "name": "before-you-build",
       "source": "./",
       "description": "Evidence-first idea validation: map assumptions, design the cheapest real-world test, log what happened, decide CONTINUE / CHANGE / STOP.",
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }

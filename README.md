@@ -78,7 +78,7 @@ Read [method/README.md](method/README.md): the loop, nine rules, the evidence la
 
 ## How this was checked
 
-[evals/](evals/) holds ten behaviour checks — for example, "40 friends said they'd use it, is it validated?" must be answered with *no* and a real test. Run them yourself after changing a skill.
+[evals/](evals/) holds thirteen behaviour checks — for example, "40 friends said they'd use it, is it validated?" must be answered with *no* and a real test. Run them yourself after changing a skill.
 
 ## Standing on shoulders
 

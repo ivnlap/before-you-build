@@ -33,9 +33,12 @@ If the person brings two or more ideas (or says they can't pick one), don't rank
    - *Kill-test cost* — hours needed for the cheapest test that could kill the riskiest assumption (from the test catalog in `byb-test-plan`).
    - *Founder fit* — do they know this segment or problem first-hand? (fact / guess)
    - *Worth it* — would success matter to them, given their goal and hours?
-3. **Shortlist 2–3** with access = yes and the cheapest kill tests. Park the rest in `validation/_parked.md` with one line each — parked, not deleted.
+3. **Shortlist 2–3** with access = yes and the cheapest kill tests.
+   - **Hard to reach ≠ weak.** If an idea scores low *only* on access, but the pain looks strong or the person names any possible way in (a relative in the trade, a friend in the industry, a former colleague), don't park it yet. Give it a **1-hour access test** this week: one warm introduction and one 15-minute conversation. If the conversation happens, the idea joins the shortlist; if not, park it.
+   - Park the rest in `validation/_parked.md` — parked, not deleted. Each line: idea · why parked (access / weak signal / no founder fit) · **revisit trigger** (a small, concrete event, e.g. "one intro to a wholesaler happens") · date.
 4. **Run kill tests in parallel for one week** (usually 5 problem interviews or one outreach batch per idea), each with its own folder and pre-registered bar.
 5. **Let the verdicts choose.** After the week, STOPs drop out; the idea with the strongest evidence level goes forward. If none survives, take the next ones from `_parked.md`.
+6. **Watch the parked list.** Whenever the person mentions something that matches a parked idea's revisit trigger ("my cousin offered to introduce me to two wholesalers"), say so and propose its 1-hour access test — even if another idea is in focus. One intro is enough to act on; don't wait for a perfect channel.
 
 Print the scoring as a small table. Never declare a winner before any test has run — the output of this step is a shortlist and a week plan, not a favourite.
 

@@ -77,7 +77,7 @@ Update the assumption's status in `assumptions.md` and recompute validation debt
 
 ### Step 6 — Report in chat (≤ 10 lines)
 Verdict in the first line, in bold. Then what happened, what we're not concluding, the counter-argument, and the next step:
-- After CONTINUE or CHANGE → usually `byb-test-plan` for the next riskiest (or changed) assumption.
+- After CONTINUE or CHANGE → `byb-test-plan` for the next riskiest (or changed) assumption. **After CHANGE the next step is always an experiment with a bar set in advance** — even when it's fulfilling an obligation (delivering a pre-sold item, running a promised pilot). Before it starts, write what result would mean CONTINUE and what would mean STOP. Never close an idea with a verdict that had no bar.
 - After STOP → archive the idea (add `> Status: STOPPED <date>` to `idea.md`). If a different problem or segment came up, the next step is `byb-start` with it as a new idea. If the user wants to try again anyway, it's their call: say it will be a new experiment on a changed assumption with a new bar set before it starts — not a rerun of this one.
 
 ---
@@ -90,8 +90,9 @@ Use when the user asks for a check-in, "where are we", or "weekly review" for an
 2. Report (≤ 15 lines):
    - Tests run this week and their verdicts; tests overdue (past their end date, still PLANNED/RUNNING).
    - Assumptions by status: supported (with level) / contradicted / untested; validation debt.
-   - Hours spent vs. the budget in `idea.md` (ask if unknown).
+   - Hours spent vs. the budget in `idea.md` (ask if unknown). If a test overran its estimate by more than ~30%, say so and make the next plan from actual hours.
    - **Drift check:** has anything been built or bought without a supporting decision? Flag it.
+   - **Parked check:** read `validation/_parked.md`. If any revisit trigger has fired or new information about a parked idea came up, name it and propose its 1-hour access test.
    - **Time check:** if the time budget is mostly spent and the fatal assumptions are still untested, say so plainly and ask whether to narrow, change, or stop.
    - One focus for next week.
 3. Append a short dated "Weekly review" entry to `decisions.md`.

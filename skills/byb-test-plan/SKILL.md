@@ -32,7 +32,7 @@ Say the required level out loud.
 
 Read `references/test-catalog.md`. Filter to tests that (a) can test this assumption and (b) can reach the required level. Pick the cheapest and fastest. Then try to shrink it: fewer days, fewer people, no code. Mention one runner-up in a single line.
 
-Fit the test to the user's stated hours and dates and show the hour split. If a strong default below doesn't fit (e.g. outreach *then* pilot), take the single stage that reaches the required level, or say plainly that it won't fit.
+Fit the test to the user's stated hours and dates and show the hour split. **Estimate hours honestly:** tests with manual delivery, an intermediary or partner, or many back-and-forth conversations (concierge, Wizard of Oz, partner deals, outreach with follow-ups) take longer than they look — add 50% for coordination and say so. If `evidence.md` or an earlier experiment shows actual hours, use those instead of the estimate. If a strong default below doesn't fit (e.g. outreach *then* pilot), take the single stage that reaches the required level, or say plainly that it won't fit.
 
 Strong defaults:
 - Problem/customer unknown → problem interviews (5–10) + desk scan.
@@ -55,7 +55,8 @@ How to set the lines:
 2. Otherwise, ask the user: "What result would genuinely disappoint you?" That's near the kill line. "What would make you clear your weekend for this?" That's near the success line.
 3. At small samples use counts ("≥ 3 of 10 pay a deposit"), not percentages with false precision.
 4. Never invent industry benchmarks. If you cite one, name the source; otherwise label it `guess`.
-5. **The user owns the bar.** Propose a draft with every number labelled `guess` and how you got it, and get their explicit OK before the start date. Example thresholds in the catalog are illustrations, not norms — never present them as typical rates.
+5. **Every branch has its own number.** If a line has several branches ("≥ 2 sign a deal **or** the partner pays the fee"), each branch states its own count, amount and unit. "The partner pays the fee" without the amount is not a bar. Before writing the file, re-read each line and check: count, denominator or amount, evidence level.
+6. **The user owns the bar.** Propose a draft with every number labelled `guess` and how you got it, and get their explicit OK before the start date. Example thresholds in the catalog are illustrations, not norms — never present them as typical rates.
 
 ## Step 5 — Draft the assets
 

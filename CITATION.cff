@@ -6,7 +6,7 @@ type: software
 authors:
   - family-names: "Lapa"
     given-names: "Ivan"
-version: 0.1.0
+version: 0.1.1
 date-released: 2026-11-06
 license: MIT
 repository-code: "https://github.com/ivnlap/before-you-build"
